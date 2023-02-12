@@ -1,0 +1,8 @@
+143.110.222.166 - - [12/Feb/2023:01:59:31 +0000] "GET / HTTP/1.1" 200 465 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 16_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1"
+157.55.39.84 - - [12/Feb/2023:02:25:16 +0000] "GET /robots.txt HTTP/1.1" 200 24 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36"
+52.167.144.61 - - [12/Feb/2023:02:25:26 +0000] "GET / HTTP/1.1" 500 941184 "-" "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36"
+209.141.48.150 - - [12/Feb/2023:02:30:02 +0000] "POST /boaform/admin/formLogin HTTP/1.1" 404 6622 "http://167.99.187.119:80/admin/login.asp" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
+209.141.48.150 - - [12/Feb/2023:02:30:02 +0000] "" 400 0 "-" "-"
+24.76.245.159 - - [12/Feb/2023:02:34:20 +0000] "GET / HTTP/1.1" 200 18589 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+24.76.245.159 - - [12/Feb/2023:02:34:20 +0000] "GET /favicon.ico HTTP/1.1" 200 0 "http://167.99.187.119/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+172.104.11.4 - - [12/Feb/2023:02:46:31 +0000] "\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x12\xD1\x89+\xAB}\xEB\xD0\x17\xF4+\x12\xF3\xA0\x1A\xFAv\xCC+\x80\x9Ai\xEB\xEBK\xB3\xB96\xC50" 400 157 "-" "-"
